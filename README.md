@@ -1,2 +1,2 @@
-# synchronousBallMovement
-Ball moving synchronously
+#Virtual Pet 3
+made background changes
